@@ -1,2 +1,1 @@
-# tower-seige
-throw a polygon at squares
+# TowerSiege-1
